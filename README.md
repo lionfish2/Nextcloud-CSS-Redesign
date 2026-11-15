@@ -28,3 +28,8 @@ To remove the theme, clear the Custom CSS box and save.
 - Light and dark mode follow your device's appearance setting, not Nextcloud's own.
 - The Collabora document editor can't be restyled, because it loads from its own server.
 - Nextcloud and app updates can rename things and break rules over time. Since the project isn't maintained, you'll need to fix those yourself.
+
+
+## AI disclaimer
+
+This stylesheet was written with the help of AI and tested by hand on one Nextcloud setup. It may contain mistakes and hasn't been audited, so read it before you use it and use it at your own risk.
